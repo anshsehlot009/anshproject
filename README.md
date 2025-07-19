@@ -118,7 +118,8 @@ npx ngrok http 3000
 
 ## 🧑‍💼 Author
 
-📌 Prepared by: **Bhumika Sharma**  
+📌 Prepared by: **ansh sehlot
+
 
 
 ---
@@ -129,7 +130,7 @@ MIT License. Feel free to use and contribute!
 
 ---
 
-Made with ❤️ by **Bhumika Sharma**
+Made with ansh sehlot
 
 
 
